@@ -10,26 +10,26 @@ I'm a Data Analyst passionate about transforming raw data into actionable busine
 
 **Programming & Analysis:**
 
-- Python (Pandas, NumPy, Matplotlib, Jupyter Notebook)
-- SQL (MS SQL Server, MySQL, SQLite)
-- Excel (Advanced formulas, Pivot Tables, Data Analysis)
+- **Python** (Pandas, NumPy, Matplotlib, Jupyter Notebook)
+- **SQL** (MS SQL Server, MySQL, SQLite)
+- **Excel** (Advanced formulas, Pivot Tables, Data Analysis)
 
 **Visualization & BI:**
 
-- Power BI (Interactive dashboards, DAX)
-- Data Visualization (Charts, Reports, Storytelling)
+- **Power BI** (Interactive dashboards, DAX)
+- **Data Visualization** (Charts, Reports, Storytelling)
 
 **Machine Learning:**
 
-- scikit-learn (Classification, Clustering, Regression)
-- TensorFlow (Deep Learning, Neural Networks)
-- OpenCV (Computer Vision)
+- **scikit-learn** (Classification, Clustering, Regression)
+- **TensorFlow** (Deep Learning, Neural Networks)
+- **OpenCV** (Computer Vision)
 
 **Tools & Others:**
 
-- Git (Version Control)
-- Jupyter Notebook (Data Analysis Workflow)
-- Tkinter (GUI Development)
+- **Git** (Version Control)
+- **Jupyter** Notebook (Data Analysis Workflow)
+- **Tkinter** (GUI Development)
 
 ---
 
