@@ -49,6 +49,13 @@ I'm a Data Analyst passionate about transforming raw data into actionable busine
 
 ### 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Vijeu&layout=compact&theme=radical)
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Vijeu&show_icons=true&theme=radical)
+<p float="left">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vijeu&layout=compact&theme=radical"
+    width="40%"
+    alt="Top Languages" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Vijeu&show_icons=true&theme=radical"
+    width="53%"
+    alt="GitHub Stats" />
+</p>
